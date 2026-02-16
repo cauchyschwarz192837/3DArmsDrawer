@@ -7,7 +7,8 @@ Android mobile app equipped with:
 - Interactive 3D models of weapons rendered in Unity
 - Information, specifications and history of weapons
 - Secure login system built using Firebase Authentication
-  
+
+  Click on the image below to watch a video demo:
 [![Watch the video](https://img.youtube.com/vi/3733GGJ9m2w/hqdefault.jpg)](https://www.youtube.com/embed/3733GGJ9m2w)
 
 
