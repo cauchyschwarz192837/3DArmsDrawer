@@ -9,6 +9,7 @@ Android mobile app equipped with:
 - Secure login system built using Firebase Authentication
 
   Click on the image below to watch a video demo:
+  
 [![Watch the video](https://img.youtube.com/vi/3733GGJ9m2w/hqdefault.jpg)](https://www.youtube.com/embed/3733GGJ9m2w)
 
 
